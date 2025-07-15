@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.heading{
+  background-color: black;
+  color: white;
+}
