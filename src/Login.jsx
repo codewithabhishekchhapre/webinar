@@ -6,7 +6,7 @@ const Login = () => {
       <div className="bg-white rounded-2xl shadow-2xl w-full max-w-md p-8">
         {/* Title */}
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-6">
-          Welcome Back
+          Welcome webinar student
         </h2>
 
         {/* Form */}
